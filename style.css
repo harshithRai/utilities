@@ -1,9 +1,12 @@
 body {
 	text-align: center;
-	text-transform: uppercase;
 	background: linear-gradient(to right, red, yellow);
 }
 
 body h1 {
 	letter-spacing: .5em;
+}
+
+.container {
+	text-transform: uppercase;
 }
