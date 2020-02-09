@@ -8,4 +8,4 @@ function setGradient() {
 
 
 leftColor.addEventListener("input", setGradient);
-rightColor.addEventListener("input", setGradient)
+rightColor.addEventListener("input", setGradient);
